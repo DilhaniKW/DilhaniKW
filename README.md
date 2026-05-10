@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f72,100:2980b9&height=200&section=header&text=Dilhani%20Wijewickrame&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Business%20Analyst%20%7C%20Undergraduate%20%7C%20Aspiring%20BA%20Professional&descAlignY=60&descSize=16&descColor=a8d8ea"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Dilhani;💼+IT+Business+Analyst+in+the+Making;🧪+QA+%26+Software+Testing+Enthusiast;📱+Mobile+App+Developer;🎨+UI%2FUX+%26+Graphic+Design+Lover;🚀+Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Dilhani!;💼+IT+Business+Analyst+in+the+Making;🧪+QA+%26+Software+Testing+Enthusiast;📱+Mobile+App+Developer;🎨+UI%2FUX+%26+Graphic+Design+Lover;🚀+Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
 <br/>
 
