@@ -102,8 +102,6 @@ fun_fact: "I turn business problems into elegant technical solutions ✨"
 
 ## 📂 Featured Projects
 
-<div align="center">
-
 ### 🧺 Online Laundry Management System
 > *Full-cycle BA & Development Project*
 
@@ -111,7 +109,7 @@ fun_fact: "I turn business problems into elegant technical solutions ✨"
 - 🔄 Created system workflows & requirement documentation
 - 🤝 Collaborated with team to ensure accuracy & quality
 
----
+<br/>
 
 ### 📱 Mobile App Project
 > *UI/UX Design + QA Testing*
@@ -119,7 +117,7 @@ fun_fact: "I turn business problems into elegant technical solutions ✨"
 - 🎨 Designed UI flow & analyzed user requirements
 - 🧪 Tested application usability & core functionality
 
----
+<br/>
 
 ### 🎓 Academic Software Projects — BA & QA
 > *University Team Projects @ SLIIT*
@@ -129,15 +127,13 @@ fun_fact: "I turn business problems into elegant technical solutions ✨"
 - 🧑‍💻 Collaborated with developers to clarify business needs
 - ✅ Assisted in functional testing & sprint reviews
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilhaniKW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilhaniKW&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilhaniKW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilhaniKW&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
@@ -170,12 +166,12 @@ fun_fact: "I turn business problems into elegant technical solutions ✨"
 
 <div align="center">
 
-```
-🔹 Project Management          🔹 Business Requirements Gathering
-🔹 Software Testing & QA       🔹 SQL & Database Fundamentals
-🔹 Documentation & Reporting   🔹 Agile & SDLC Knowledge
-🔹 UML & Diagrams              🔹 Critical Thinking & Communication
-```
+| | |
+|:---|:---|
+| ✅ Project Management | ✅ Business Requirements Gathering |
+| ✅ Software Testing & QA | ✅ SQL & Database Fundamentals |
+| ✅ Documentation & Reporting | ✅ Agile & SDLC Knowledge |
+| ✅ UML & Diagrams | ✅ Critical Thinking & Communication |
 
 </div>
 
