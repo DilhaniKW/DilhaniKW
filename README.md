@@ -141,7 +141,7 @@ fun_fact: "I turn business problems into elegant technical solutions ✨"
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DilhaniKW&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=DilhaniKW&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
